@@ -1,0 +1,18 @@
+name: listenable_plus
+description: Reactive extensions for listenables in Flutter.
+version: 0.1.0
+publish_to: none
+
+environment:
+  sdk: ">=3.13.0"
+
+dev_dependencies:
+  fake_async: 1.3.3
+  flutter_lints: ^6.0.0
+  flutter_test:
+    sdk: flutter
+  meta: any
+
+dependencies:
+  flutter:
+    sdk: flutter
